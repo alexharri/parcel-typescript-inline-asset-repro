@@ -1,0 +1,17 @@
+{
+  "name": "parcel-typescript-inline-require-issue",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "https://github.com/alexharri",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.9.6"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.2",
+    "typescript": "^2.9.2"
+  }
+}
