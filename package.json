@@ -1,5 +1,5 @@
 {
-  "name": "parcel-typescript-inline-require-issue",
+  "name": "parcel-typescript-inline-asset-repro",
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
